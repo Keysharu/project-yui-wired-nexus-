@@ -39,13 +39,13 @@ flowchart TD
 ```
 
 ### Tabla de Equivalencias Rápidas:
-| Proyecto en Barra Lateral | Chat de Origen | Qué era | Dónde vive ahora (en `juego meta`) | ¿Necesitas volver al chat viejo? |
-| :--- | :--- | :--- | :--- | :--- |
-| **`cyber_companion`** | *Unificación De Chats* | La asistente de escritorio Rebeca 2D con voz y gestos | En [`rebeca_xr_vr_asist/`](file:///c:/Users/asakura/Documents/juego%20meta/rebeca_xr_vr_asist/) | ❌ **No.** Todo su código y assets están aquí. |
-| **`suno proyect`** | *Crear Canal Música 24/7* | Prompts para generar pistas synthwave / rock | Carpeta de pistas: [`radio_chipset_107_7_fm/music/`](file:///c:/Users/asakura/Documents/juego%20meta/radio_chipset_107_7_fm/music/) | ❌ **No.** La música que generes se suelta aquí directo. |
-| **`home lab`** | *Creación Servidor NAS* | Montaje del BMAX Ryzen 7, LGM-OS y Ollama | Operativo en red (`192.168.0.29:11434`). Registrado en [`DICCIONARIO_Y_GUIA_SERVIDOR_BMAX.md`](file:///c:/Users/asakura/Documents/home%20lab/docs/DICCIONARIO_Y_GUIA_SERVIDOR_BMAX.md) | ❌ **No.** El servidor ya corre autónomo en su balda. |
-| **`vocaloid clon`** | *Clonación Vocaloid* | Investigación de síntesis de voz y Remixlive | Integrado en la modulación dual de Edge-TTS (`Elvira` y `Abril`) | ❌ **No.** La radio ya tiene las voces moduladas. |
-| **`juego meta`** | *Preparación Hackathon* | **ESTE CHAT Y ESTA CARPETA** | **Tu único centro de trabajo.** | ✅ **SÍ. Todo se hace desde aquí.** |
+| Proyecto en Barra Lateral | Chat de Origen | Qué era | Dónde vive ahora (en `juego meta`) 
+| :--- | :--- | :--- | :--- |
+| **`cyber_companion`** | *Unificación De Chats* | La asistente de escritorio Rebeca 2D con voz y gestos | En [`rebeca_xr_vr_asist/`](file:///c:/Users/asakura/Documents/juego%20meta/rebeca_xr_vr_asist/) 
+| **`suno proyect`** | *Crear Canal Música 24/7* | Prompts para generar pistas synthwave / rock | Carpeta de pistas: [`radio_chipset_107_7_fm/music/`](file:///c:/Users/asakura/Documents/juego%20meta/radio_chipset_107_7_fm/music/) 
+| **`home lab`** | *Creación Servidor NAS* | Montaje del BMAX Ryzen 7, LGM-OS y Ollama | Operativo en red (`192.168.0.29:11434`). Registrado en [`DICCIONARIO_Y_GUIA_SERVIDOR_BMAX.md`](file:///c:/Users/asakura/Documents/home%20lab/docs/DICCIONARIO_Y_GUIA_SERVIDOR_BMAX.md) 
+| **`vocaloid clon`** | *Clonación Vocaloid* | Investigación de síntesis de voz y Remixlive | Integrado en la modulación dual de Edge-TTS (`Elvira` y `Abril`) 
+| **`juego meta`** | *Preparación Hackathon* | **ESTE CHAT Y ESTA CARPETA** | **Tu único centro de trabajo.** 
 
 ---
 
@@ -155,11 +155,6 @@ c:\Users\asakura\Documents\juego meta\
 ```
 
 ---
-
-## 🧘 4. Protocolo Anti-Sobrecarga para Raquel
-
-1. **No abras más chats para este proyecto:** Todo lo que construyamos para el Hackathon de Meta, para la radio y para Yui se gestiona **dentro de este mismo hilo de conversación**.
-2. **Tu único punto de referencia:** Si alguna vez dudas de dónde está un archivo o qué IP tenía el servidor, abre este documento (`00_CENTRO_DE_MANDO_Y_MAPA_CANONICO_GLOBAL.md`).
 3. **Tu misión creativa ahora:** 
    * Seguir sacando los temazos en Suno y soltándolos en `radio_chipset_107_7_fm/music/`.
    * Estar atenta al correo por si Meta o Baseten aprueban los créditos.
