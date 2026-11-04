@@ -26,7 +26,7 @@
 ### 2. Links & Media (Enlaces y Contenido)
 
 * **Public GitHub Repository URL:**  
-  `https://github.com/[TU_USUARIO_GITHUB]/project-yui-wired-nexus`  
+  `https://github.com/Keysharu/project-yui-wired-nexus-`  
   *(Asegúrate de que el repositorio esté en modo PUBLIC antes de enviar).*
 
 * **3-Minute Video Demo URL (YouTube / Vimeo / Loom):**  
