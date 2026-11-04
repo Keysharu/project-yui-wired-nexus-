@@ -86,15 +86,15 @@ En el archivo [`.env`](file:///C:/Users/asakura/Documents/home%20lab/emisora%202
 
 ```env
 # Clave privada de emisión que te da YouTube Studio
-YOUTUBE_STREAM_KEY=kku3-gmu4-cvqg-v6gv-7f48
+YOUTUBE_STREAM_KEY=
 
 # Servidor RTMP de YouTube
-YOUTUBE_RTMP_URL=rtmp://a.rtmp.youtube.com/live2
+YOUTUBE_RTMP_URL
 
 # Servidor BMAX de IA Local (Ollama)
 # En el portátil usa la IP de red: http://192.168.0.29:11434
 # Si corre dentro del BMAX puedes usar: http://127.0.0.1:11434
-BMAX_SERVER=http://192.168.0.29:11434
+BMAX_SERVER=http://xxx.168.0.29:xxxxx
 BMAX_MODEL=llama3.2:3b
 
 # Número de canciones completas entre cada bloque de noticias
