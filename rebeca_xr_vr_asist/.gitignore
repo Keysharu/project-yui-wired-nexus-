@@ -1,0 +1,29 @@
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Companion Local Cache & Audio Buffers
+assets/rebeca_speech.mp3
+assets/speech_cache.mp3
+assets/*.mp3
+assets/*.wav
+
+# Personal Configurations & Histories (DO NOT COMMIT REAL KEYS)
+chat_history.json
+notes/
+calendar_events/
+
+# Build & Compilation Artifacts
+dist/
+build/
+*.spec
+*.exe
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

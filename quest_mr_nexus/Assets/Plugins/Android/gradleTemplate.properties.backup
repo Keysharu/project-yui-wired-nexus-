@@ -1,0 +1,7 @@
+org.gradle.jvmargs=-Xmx4096M
+org.gradle.daemon=false
+org.gradle.parallel=false
+android.useAndroidX=true
+android.enableJetifier=true
+android.bundle.includeNativeDebugMetadata=false
+**ADDITIONAL_PROPERTIES**

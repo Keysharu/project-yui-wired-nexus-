@@ -1,0 +1,37 @@
+{
+  "entries": [
+    { "key": "kira_welcome_247", "speaker": "kira", "text": "Hey, this is Kira on Radio Chipset, one oh seven point seven. We're on the air twenty-four seven, so get comfortable. Mina, how's the tower looking?" },
+    { "key": "mina_tactical_brief", "speaker": "mina", "text": "Thanks, Kira. Quick heads-up: there are supply chests scattered around the room. Crack a couple open before anything starts moving. We'll sort out the rest as we go." },
+    { "key": "nyx_scan_room", "speaker": "nyx", "text": "Room scanned! Point the crosshair at the supply chests. One shot opens them and charges your arsenal." },
+    { "key": "nyx_breach_warning", "speaker": "nyx", "text": "Heads up, a breach is tearing open on the north wall. Get ready, things are about to get busy." },
+    { "key": "nyx_wave1", "speaker": "nyx", "text": "Here comes the first one. A scout Cyber-Spider, all yours." },
+    { "key": "nyx_wave2", "speaker": "nyx", "text": "Second wave, and there are two of them. I'll distract them, you take the experience." },
+    { "key": "nyx_wave1_cleared", "speaker": "nyx", "text": "Nice shooting. You've got three seconds to reload before the next wave." },
+    { "key": "nyx_dont_steal_xp", "speaker": "nyx", "text": "I'm only tapping it to throw it off. The finishing blow is yours, I'm not stealing your XP." },
+    { "key": "kira_boss_alert", "speaker": "kira", "text": "Attention, listeners. The breach just got wider and something big is coming through. Everybody to your stations." },
+    { "key": "nyx_battle_stance", "speaker": "nyx", "text": "Warm-up's over. I'm taking position and opening heavy fire on the Centurion." },
+    { "key": "kira_climax_energizer", "speaker": "kira", "text": "Things are heating up. Mina, turn it up. That Centurion is hurt and the music needs to keep pace." },
+    { "key": "nyx_climax_call", "speaker": "nyx", "text": "Mina, Kira, the Centurion's armor is almost gone. Crank the battle track, she's about to finish it." },
+    { "key": "nyx_boss_defeated", "speaker": "nyx", "text": "Target down! What a shot. Mina, Kira, it's your turn." },
+    { "key": "mina_victory_247", "speaker": "mina", "text": "Boss is down. Thanks for staying with us. We're back on Radio Chipset with something easy until the next breach." },
+
+    { "key": "radio_news_01", "speaker": "kira", "text": "Breaking from the tower: people on block seven swear the streetlights flicker in time with the music. The technicians say it's a coincidence. We're not so sure." },
+    { "key": "radio_news_02", "speaker": "mina", "text": "Dimensional traffic report: the north breach hasn't opened in three days. The crows are perching on the antennas again, which is usually a good sign." },
+    { "key": "radio_news_03", "speaker": "kira", "text": "The scrap market in district four has a new coffee stall with synthetic caffeine. Half-hour line and nobody's complaining. That's city life for you." },
+    { "key": "radio_news_04", "speaker": "mina", "text": "Notice for couriers: the canal bridge is still closed for repairs. A maintenance drone fell asleep on top of it, literally. Take the dock route." },
+    { "key": "radio_news_05", "speaker": "kira", "text": "It's official: the tower's stray cat won the neighborhood contest again. Second year running. The judges were holograms and couldn't resist." },
+
+    { "key": "radio_event_01", "speaker": "mina", "text": "This week's agenda: Friday there's a synthesizer concert on the tower roof. Free entry, bring your own chair." },
+    { "key": "radio_event_02", "speaker": "kira", "text": "This Saturday, a chess tournament with holographic pieces in Clock Square. Win and you take home a helmet with lights. Lose and you still get a coffee." },
+    { "key": "radio_event_03", "speaker": "mina", "text": "Sunday is the old radio flea market by the lighthouse. Expect stalls of cables, vacuum tubes, and a surprise nobody wanted to explain." },
+
+    { "key": "radio_update_01", "speaker": "kira", "text": "Broadcast update: we swapped the tower antenna and the signal now reaches the harbor district. If you hear static, let us know." },
+    { "key": "radio_update_02", "speaker": "mina", "text": "A note from the newsroom: starting today, the late-night music will be calmer. The folks on the top floor have been asking for weeks." },
+
+    { "key": "radio_curiosity_01", "speaker": "kira", "text": "Fun fact of the day: Cyber-Spiders can't look up. A technician found out by accident, standing on a ladder with a flashlight." },
+    { "key": "radio_curiosity_02", "speaker": "mina", "text": "Little-known fact: we picked one oh seven point seven because it was the only free frequency between two talk stations. Nobody misses them." },
+    { "key": "radio_curiosity_03", "speaker": "kira", "text": "Did you know Nyx switches to power-saving mode when nobody's looking? They say she purrs. She denies it." },
+    { "key": "radio_curiosity_04", "speaker": "mina", "text": "Curiosity: the Quantum Centurion wears a nine on its chest because the previous eight broke down on day one." },
+    { "key": "radio_curiosity_05", "speaker": "kira", "text": "Fact of the day: the tower has more antennas than windows. Mina counted them twice and got a different number each time." }
+  ]
+}

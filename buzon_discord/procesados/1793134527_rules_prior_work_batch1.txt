@@ -1,0 +1,13 @@
+[CANAL: #ask-mentors / #rules - Reglas de Código Previo y Pagos]
+
+Couldn't save card We couldn't confirm the billing country for this card. Please try a different card.
+---
+I don't have a valid Visa to use to get the free 150$ i got how can i use them
+---
+Hello, we are a team that was trying to develop using open weights models such as v-jepa2 and a few other repositories that have been published under MIT License in NeurIPS and CVPR. Would that be permitted or that violates the rules?
+---
+Can one builder participate in 2 teams for the hackathon ?
+---
+Hi @Kai | CV, I’m an accepted participant, but my friend missed registration. Is any late-registration exception available so he can join my team? I understand each teammate needs individual approval.
+---
+Hi Cerebral Valley and Meta team! I'm an approved participant developing an AI solution for international trade and customs documentation. Before the hackathon, I developed a private experimental codebase containing deterministic validation components and a prototype interface. I understand that only functionality developed during October 26–November 4 can be presented as hackathon work, and that the submitted repository must be public. For the Startup track, may we use pre-existing private code as a supporting foundation, provided that the submitted public repository and three-minute demo clearly identify the new functionality developed during the hackathon, without claiming earlier work as a new contribution? I'd like to make sure our project is fully compliant while protecting our existing commercial intellectual property. Thank you for the clarification!

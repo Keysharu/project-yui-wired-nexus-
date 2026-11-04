@@ -1,0 +1,89 @@
+# =============================================================================
+# .gitignore // PROJECT NYX: THE WIRED NEXUS & RADIO CHIPSET
+# El taller de la gatita tech - Meta Global AI Developer Hackathon 2026
+# =============================================================================
+
+# --- 1. Credenciales y Secretos (Zero Secrets Enforcement) ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.keystore
+LICENCIA_WINDOWS_BMAX.txt
+
+# --- 2. Backups Locales Pesados y Archivos Congelados ---
+BACKUPS_CONGELADOS/
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# --- 3. Unity & Builds de Meta Quest (VR / MR / Android) ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+*.apk
+*.aab
+*.obb
+unity_*.log
+*.log
+
+# --- 4. Entornos de Desarrollo e IDEs (VS, Rider, VSCode) ---
+.vs/
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# --- 5. Python & Homelab Cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.pytest_cache/
+tools/DiscordChatExporter/
+
+# --- 6. Cachés Temporales Locales y Buzones ---
+cache/
+buzon_discord/cache/
+*.tmp
+*~
+
+# --- 7. Sistema Operativo ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --- 8. Archivos Locales Desacoplados y Herramientas de Scratch ---
+ARCHIVE_UNUSED_3D_ASSETS/
+archive_tools_and_logs/
+scratch/
+
+# --- 9. Recursos Multimedia Pesados de Difusión (>100MB) y Herramientas Externas ---
+radio_chipset_broadcast/radio_assets/
+tools/
+*.pdb
+
+

@@ -1,0 +1,21 @@
+[CANAL: #office-hours / #ask-mentors]
+
+Hi, I’m trying to build on my existing project. Do I have to make all the code public or just the one that I create during hackathon? Thanks!
+---
+Hi! Quick pre-build check for our Indie track project (team of 2). We’re building an open-source tool that measures and tunes coding-agent setups on a repo’s own past bugs. We’d like to confirm these third-party pieces are allowed: CodeProbe (Apache-2.0, open source) as part of our evaluation runner Claude Code as the agent harness, pointed at the Meta Model API (muse-spark-1.3) via the custom base URL setup described in Meta’s own coding-agents docs SWE-rebench / SWE-Gym (public datasets) as a source of validated bug-fix tasks All model calls go to Meta’s models. Everything we build on top will be written during the hackathon and credited clearly in our README. Are these fine to use, and is there anything specific we should disclose in the submission? Thanks! @Cerebral Valley (editado)
+martes, 27 de octubre de 2026, 21:00
+---
+SAM 3.1: What is the exact endpoint, input format, and model ID? Does it track an object across video frames, or only single images?
+,
+Muse Spark: Which model ID should I use right now (muse-spark-1.2, muse-spark-1.3, or other)? Does it accept image input?
+,
+Muse Voice Transcribe: Is muse-voice-transcribe-1.0 the right ID? Does it support realtime streaming over WebSocket? Are Tamil and Hindi supported?
+,
+Muse Spark Open (Baseten): The Baseten docs use meta-models/muse-spark-open, but the guide says meta-models/muse-spark-open-1026. Which is correct, and does it accept image input?
+,
+---
+I’m building Kaviyo, a product I hope to develop into a startup. The business has not formally launched or been incorporated yet, and I’m currently building the product myself. The Startup track rules say the representative must be an active employee of the startup and authorized to receive notices and prize payments on its behalf. Would a pre-launch founder in my situation qualify, or does the startup need to be formally established first? and also havent recived muse credits yet. Any updates on that?
+---
+Hi, I'm hoping someone from the Meta API team can help. Solo Indie-track builder here. When I call POST https://api.meta.ai/v1/chat/completions with model "muse-spark-1.3", it returns HTTP 404 {type: invalid_request_error, code: model_not_found} when the request comes from my deployed server (Render, tried both Frankfurt and US East/Virginia). The same API key and the same request body return 200 from my home connection in the UK, and GET /v1/models with that key lists muse-spark-1.3. On the same Render server and key, muse-voice-transcribe-1.0 works, so authentication is fine. Is there a restriction on calls from cloud or hosting IPs, or something account-side I need to enable? Happy to share a request ID by DM. Thanks!
+---
+do we get a recording for today

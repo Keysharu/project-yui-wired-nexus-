@@ -1,0 +1,18 @@
+[CANAL: #announcements / #general - Enlace de Entrega y Soporte Oficial]
+
+There's no leaderboard for this hackathon — the idea was passed to the team but nothing has been announced. One representative per team submits the project at https://cerebralvalley.ai/e/meta-ai-developer-hackathon/hackathon/submit by Wed Nov 4 at 9:00 PM ET, and you can edit the submission until the deadline, so submitting early has no advantage.
+---
+idk if the bot is fully automated or some mods are using it in the background, please do this <t:1793844000:F> next time pwease. It shows in local time of each user jueves, 5 de noviembre de 2026, 3:00  (editado)
+martes, 27 de octubre de 2026, 21:36
+---
+anyone wants to be my teammate ?
+---
+@Cerebral Valley can i continue building, even with the billing issues here ?
+---
+Yes — billing issues don't stop you from building. You just can't make Meta Model API calls until credits show on your Billing page (that needs a payment method on your account), so in the meantime you can build with Meta's open-weight models through the partner inference credits — Baseten, Modal and Fireworks forms are linked on https://cerebralvalley.ai/e/meta-ai-developer-hackathon/details. For the card or credit problem itself, see the billing setup and payment-failure guidance (https://dev.meta.ai/help/billing/set-up-billing, https://dev.meta.ai/help/billing/payment-failure) and, if it still fails, open a ticket at https://dev.meta.ai/support.
+---
+I think I failed to see the most important part to the contest was maintaining a billing account with Meta and the partners. I don't see the thing as winnable without a billing account.
+---
+reading the oct 26 rules I don't see it possible without one.
+---
+https://cerebralvalley.ai/e/meta-ai-developer-hackathon/hackathon/submit

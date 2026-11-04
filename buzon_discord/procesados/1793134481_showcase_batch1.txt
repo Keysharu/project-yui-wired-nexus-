@@ -1,0 +1,33 @@
+[CANAL: #build-in-public / #showcase - Ideas de los Competidores]
+
+Thanks! The idea is simple, it solves a real world problem. I have already successfully tested the "ears & eyes", and frankly, there's nothing novel there. Google and Amazon have had this for decades. 
+
+I pushed the basic source files of the harness to a GitHub repo, you're more than welcome to play with it. It will be released open source either way.
+
+The actual useful invention has been removed, you'll have to wait for the reveal. But I think you'll like it.
+
+The real challenge is working 100% with Meta tools and models. I decided to challenge myself and work completely by voice vibes, through meta spark.
+---
+https://nullgraph.dev/dashboard/agents/herd-wolves-coevo  For checking agents in Action this was the latest work prior to hackathon
+---
+now able to test vertical slices,ability to run complicated sims with just from simple one liners prompt alone,(storm demo to train muse spark for the preferred styles)
+---
+Those this relate to Geography in any way @vikas
+---
+It could,It can simulate pretty complicated physics or any sims with prompts,tho i m still yet to test prompts pipeline properly these are hand placed examples,but ideas is this line only type whatever u wish and u should get good enough renders
+---
+And sims would be callibrated sort of for your device to provide stable frame rates for all,Well that's the idea right now not implemented
+---
+Thats solid bro. Keep it up.
+---
+See you at the top bro
+---
+Day 2 of building Koblip Book for the Meta Global AI Developer Hackathon 
+
+The idea: find your business and get a draft booking page in minutes. Today’s progress: refining the booking page home page.
+
+Still building, testing, and improving. What would you want on your business’s booking page?
+
+#BuildInPublic metaHackathon #KoblipBook
+---
+Sneak peek on my work for the hackathon. Simulating a real sequence that Muse puts together for building energy/hvac loads using a control engine I built for this industrial purpose. Allows the agent to simulate and modify the sequences/parameters for energy saving, comfort or emissions

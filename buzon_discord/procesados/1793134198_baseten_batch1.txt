@@ -1,0 +1,35 @@
+[CANAL: #baseten-credits / #partner-credits]
+
+@Cerebral Valley how to get basten api
+---
+@everyone Answering the big question: how do Baseten credits work?   $100 in credits + 2M TPM on Muse Spark Open for 2,000 selected builders
+,
+Apply through the credits form: https://shorturl.at/SLdSo
+,
+If selected, you’ll get an email from Baseten within a few hours with your API key ( save it right away, as you can't regenerate it again) + a getting-started guide
+,
+Your key only works with Muse Spark Open ( more details on how to use it will be shared in email to selected builders). Any other Baseten models and products aren’t included
+,
+ NO direct Baseten sign-up needed.   Stuck? drop it here and we’ll help  (editado)
+martes, 27 de octubre de 2026, 0:39
+---
+Hey everyone, we are blasting out final credits later today so please ensure if you want credits you fill the form (in the pinned message) if you haven't already. Remember, the credits are given to a select 2,000 builders of the entire pool that applies, so not everyone will get the credits.
+---
+I may have submitted the form multiple times.  Please ignore the multiple submissions and use the best one for selection.  Looking forward to use credits to test out the platform and model capabilities.  Thanks!
+---
+Applied through the form and excited to start working with these credits if we get them 
+---
+the api I got is not working keeps getting rejected with 403 @Cerebral Valley (editado)
+martes, 27 de octubre de 2026, 20:28
+---
+which slug are you using?
+---
+For sure we automatically dedup
+---
+thanks @Baseten for the credits. i noticed that is not directly connected to my account. how can I check my usage?
+---
+Unfortunately checking usage is not possible with this workflow!
+---
+which slug are you using?
+---
+https://inference.baseten.co/v1

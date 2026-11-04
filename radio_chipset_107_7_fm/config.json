@@ -1,0 +1,93 @@
+{
+  "active_provider": "bmax_local",
+  "providers": {
+    "bmax_local": {
+      "type": "ollama",
+      "host": "192.168.0.29",
+      "port": 11434,
+      "model": "llama3.2:3b",
+      "fallback_model": "llama3.2:1b",
+      "endpoint": "http://192.168.0.29:11434/api/chat",
+      "notes": "Coste cero (0,00 €). Inferencia en local en el AMD Ryzen 7 del BMAX."
+    },
+    "meta_muse_api": {
+      "type": "meta_model_api",
+      "endpoint": "https://api.meta.ai/v1/responses",
+      "model": "muse-spark-1.3",
+      "api_key_env_var": "MODEL_API_KEY",
+      "notes": "Confirmado oficialmente en el workshop: modelo muse-spark-1.3 vía base_url https://api.meta.ai/v1"
+    },
+    "baseten_muse": {
+      "type": "baseten_endpoint",
+      "endpoint": "https://inference.baseten.co/v1/chat/completions",
+      "model": "meta-models/muse-spark-open-1026",
+      "api_key_env_var": "BASETEN_API_KEY",
+      "notes": "Endpoint oficial Baseten OpenAI-Compatible: 100 $ + 2M TPM para Muse Spark Open."
+    },
+    "modal_endpoint": {
+      "type": "modal_serverless",
+      "endpoint": "https://your-workspace--muse-spark-open.modal.run",
+      "api_key_env_var": "MODAL_API_KEY",
+      "notes": "Hueco para los 100 $ de GPUs serverless de Modal."
+    }
+  },
+  "radio": {
+    "station_name": "Radio Chipset",
+    "motto": "La emisora de trinchera y música lo-fi cyberpunk // El taller de la gatita tech",
+    "language": "es",
+    "supported_languages": [
+      "es",
+      "en"
+    ],
+    "default_music_dir": "c:/Users/asakura/Documents/suno proyect/radio_assets/music_tracks",
+    "output_cache_dir": "cache",
+    "broadcast_mode": "local_audio_ducking",
+    "api_timeout_seconds": 60
+  },
+  "voices": {
+    "es": {
+      "kira": {
+        "name": "Kira",
+        "voice_id": "es-ES-ElviraNeural",
+        "rate": "+10%",
+        "pitch": "+4Hz",
+        "role": "Locutora impulsiva, fan del metal y el synthwave, netrunner de combate y adicta a los glitches"
+      },
+      "mina": {
+        "name": "Mina",
+        "voice_id": "es-ES-XimenaNeural",
+        "rate": "-2%",
+        "pitch": "-2Hz",
+        "role": "Analista táctica, elegante, irónica, experta en arquitectura de datos, ciberseguridad y lore"
+      }
+    },
+    "en": {
+      "kira": {
+        "name": "Kira",
+        "voice_id": "en-US-AriaNeural",
+        "rate": "+10%",
+        "pitch": "+3Hz",
+        "role": "High-energy cyberpunk netrunner, fast talker, synthwave combat lover, impulsive hype queen"
+      },
+      "mina": {
+        "name": "Mina",
+        "voice_id": "en-GB-SoniaNeural",
+        "rate": "-2%",
+        "pitch": "-2Hz",
+        "role": "Refined British tactician, calm, witty, sarcastic data architect and cybersecurity analyst"
+      }
+    },
+    "kira": {
+      "name": "Kira",
+      "voice_id": "es-ES-ElviraNeural",
+      "rate": "+10%",
+      "pitch": "+4Hz"
+    },
+    "mina": {
+      "name": "Mina",
+      "voice_id": "es-ES-XimenaNeural",
+      "rate": "-2%",
+      "pitch": "-2Hz"
+    }
+  }
+}

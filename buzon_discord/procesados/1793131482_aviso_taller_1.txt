@@ -1,0 +1,18 @@
+<@&1564098529587368066> 🔵 Get ready for our first Live Session with Meta from 12:00 PM - 1:00 PM ET today!
+
+**Agents 101: Build a Multimodal AI Agent Pt. 1** with Suraj Subramanian
+[Livestream](https://cerebralvalley.ai/e/meta-ai-developer-hackathon/live)
+
+**Prerequisites:**
+
+1. Download Muse Code
+2. Sign in to Muse Code with your API Key
+3. The repository for the workshop is here: https://github.com/meta-models/legal-agent-workshop
+4. Run the following commands to setup
+
+git clone https://github.com/meta-models/legal-agent-workshop.git
+cd legal-agent-workshop/agent
+cp .env.example .env      # add MODEL_API_KEY here
+
+Expect the workshop to use around $7 in tokens.
+Heads up, we recommend using a macOS or Linux machine (Windows probably needs WSL, untested), git, Python 3.9 or newer for this workshop.

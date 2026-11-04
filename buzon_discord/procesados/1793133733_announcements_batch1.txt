@@ -1,0 +1,53 @@
+[CANAL: #announcements]
+
+On Credits: We will release information around Meta-provided credits around kickoff. For the partner's credits, you can fill out the forms in the participant resources. Again, more information will be provided there past kickoff.
+
+Also moving forward ensure all credit related questions go into credit-requests  (read the pinned post there).
+---
+Kick off is at lunes, 26 de octubre de 2026, 17:00
+---
+HERE IS THE FORM TO GET YOUR META CREDITS SET UP : https://docs.google.com/forms/d/e/1FAIpQLScam78z7tHsNYibiFyJQVFzEgr0coyBTiY568SxxNbsPa3jiw/viewform
+---
+Official comms from meta on the credits
+
+"Upon providing a valid payment method a temporary pre authorization charge will show up on your card, this will be released automatically within a few business days"
+---
+@Builders Kickoff starts soon! Join us at 12:00 PM EST (9:00 AM PT) here: https://cerebralvalley.ai/e/meta-ai-developer-hackathon/live (editado)
+lunes, 26 de octubre de 2026, 16:53
+---
+@Builders  Hacking has officially started!
+Event details can be found here and ask all your questions in the Discord.
+---
+@Builders Hackathon Kickoff Recording accessible here: https://vimeo.com/1238909940/6d91bab1b2?share=copy&fl=sv&fe=ci
+---
+@Builders  Meta Office Hours are 10:00 AM - 11:00 AM ET today in the office-hours channel. Have your questions ready!
+---
+@Builders  Get ready for our first Live Session with Meta from 12:00 PM - 1:00 PM ET today!
+
+Agents 101: Build a Multimodal AI Agent Pt. 1 with Suraj Subramanian
+Livestream
+
+Prerequisites:
+
+
+Download Muse Code
+,
+Sign in to Muse Code with your API Key
+,
+The repository for the workshop is here: https://github.com/meta-models/legal-agent-workshop
+,
+Run the following commands to setup
+,
+
+git clone https://github.com/meta-models/legal-agent-workshop.git
+cd legal-agent-workshop/agent
+cp .env.example .env      # add MODEL_API_KEY here
+
+Expect the workshop to use around $7 in tokens.
+Heads up, we recommend using a macOS or Linux machine (Windows probably needs WSL, untested), git, Python 3.9 or newer for this workshop.
+---
+@Builders Thank you to everyone who participated in the live session today.
+Here is the recording
+
+Join us for part two tomorrow at 12:00 PM ET! (editado)
+martes, 27 de octubre de 2026, 20:15

@@ -1,0 +1,37 @@
+{
+  "entries": [
+    { "key": "kira_welcome_247", "speaker": "kira", "text": "Buenas, aquí Kira en Radio Chipset, ciento siete punto siete. Seguimos en el aire las veinticuatro horas, así que ponte cómoda. Mina, ¿cómo ves la torre?" },
+    { "key": "mina_tactical_brief", "speaker": "mina", "text": "Gracias, Kira. Aviso rápido: hay cofres de suministros repartidos por la sala. Abre un par antes de que se mueva algo. Lo demás ya lo iremos viendo." },
+    { "key": "nyx_scan_room", "speaker": "nyx", "text": "Sala escaneada. Apunta a los cofres de suministros con la cruz. Con un disparo se abren y te cargan el arsenal." },
+    { "key": "nyx_breach_warning", "speaker": "nyx", "text": "Ojo, se está rasgando una brecha en la pared norte. Prepárate, que esto se pone movido." },
+    { "key": "nyx_wave1", "speaker": "nyx", "text": "Ahí sale la primera. Una Cyber-Spider de reconocimiento, toda tuya." },
+    { "key": "nyx_wave2", "speaker": "nyx", "text": "Segunda oleada, y vienen dos. Yo las distraigo y tú te llevas la experiencia." },
+    { "key": "nyx_wave1_cleared", "speaker": "nyx", "text": "Buena puntería. Tienes tres segundos para recargar antes de la siguiente." },
+    { "key": "nyx_dont_steal_xp", "speaker": "nyx", "text": "Solo le doy un toquecito para despistarla. El remate es tuyo, que yo no te robo el XP." },
+    { "key": "kira_boss_alert", "speaker": "kira", "text": "Atención, oyentes. La brecha se ha ensanchado y de ahí viene algo grande. Todo el mundo a sus puestos." },
+    { "key": "nyx_battle_stance", "speaker": "nyx", "text": "Se acabó el calentamiento. Me pongo en posición y abro fuego pesado contra el Centurión." },
+    { "key": "kira_climax_energizer", "speaker": "kira", "text": "Esto se calienta. Mina, sube el volumen. Ese Centurión está tocado y la música tiene que estar a la altura." },
+    { "key": "nyx_climax_call", "speaker": "nyx", "text": "Mina, Kira, al Centurión le queda muy poco blindaje. Poned el temazo a tope, que ya lo remata." },
+    { "key": "nyx_boss_defeated", "speaker": "nyx", "text": "Objetivo abatido. Menuda puntería. Mina, Kira, os toca a vosotras." },
+    { "key": "mina_victory_247", "speaker": "mina", "text": "Jefe fuera de combate. Gracias por quedarte con nosotras. Seguimos en Radio Chipset con música tranquila hasta la próxima brecha." },
+
+    { "key": "radio_news_01", "speaker": "kira", "text": "Última hora desde la torre: los vecinos de la manzana siete juran que las farolas parpadean al ritmo de la música. Los técnicos dicen que es casualidad. Nosotras no estamos tan seguras." },
+    { "key": "radio_news_02", "speaker": "mina", "text": "Informe del tráfico dimensional: la brecha norte lleva tres días sin abrirse. Los cuervos han vuelto a posarse en las antenas, y eso suele ser buena señal." },
+    { "key": "radio_news_03", "speaker": "kira", "text": "El mercado de chatarra del distrito cuatro estrena puesto de café con cafeína sintética. Cola de media hora y nadie se queja. Cosas de la ciudad." },
+    { "key": "radio_news_04", "speaker": "mina", "text": "Aviso para repartidores: el puente del canal sigue cortado por obras. Un dron de mantenimiento se quedó dormido encima, literalmente. Usad la ruta del muelle." },
+    { "key": "radio_news_05", "speaker": "kira", "text": "Se confirma que el gato callejero de la torre ha vuelto a ganar el concurso del barrio. Segundo año seguido. Los jueces eran holográficos y no pudieron resistirse." },
+
+    { "key": "radio_event_01", "speaker": "mina", "text": "Agenda de la semana: el viernes hay concierto de sintetizadores en la azotea de la torre. Entrada libre, traed vuestra propia silla." },
+    { "key": "radio_event_02", "speaker": "kira", "text": "Este sábado, torneo de ajedrez con piezas holográficas en la plaza del reloj. Si ganas, te llevas un casco con luces. Si pierdes, te dan un café igualmente." },
+    { "key": "radio_event_03", "speaker": "mina", "text": "El domingo hay mercadillo de radios antiguas junto al faro. Habrá puestos de cables, válvulas y alguna sorpresa que nadie ha querido explicar." },
+
+    { "key": "radio_update_01", "speaker": "kira", "text": "Actualización de la emisión: hemos cambiado la antena de la torre y la señal llega ahora hasta el barrio del puerto. Si nos oyes con ruido, avísanos." },
+    { "key": "radio_update_02", "speaker": "mina", "text": "Nota de la redacción: desde hoy la música de madrugada será más tranquila. Los vecinos del último piso llevaban semanas pidiéndolo." },
+
+    { "key": "radio_curiosity_01", "speaker": "kira", "text": "Curiosidad del día: las Cyber-Spiders no pueden mirar hacia arriba. Un técnico lo descubrió por casualidad, subido a una escalera con una linterna." },
+    { "key": "radio_curiosity_02", "speaker": "mina", "text": "Dato curioso: elegimos el ciento siete punto siete porque era la única frecuencia libre entre dos emisoras de tertulias. Nadie las echa de menos." },
+    { "key": "radio_curiosity_03", "speaker": "kira", "text": "¿Sabías que Nyx se pone en modo ahorro cuando nadie la mira? Dicen que ronronea. Ella lo niega." },
+    { "key": "radio_curiosity_04", "speaker": "mina", "text": "Curiosidad: el Centurión Cuántico lleva un nueve en el pecho porque los ocho anteriores se averiaron el primer día." },
+    { "key": "radio_curiosity_05", "speaker": "kira", "text": "Dato del día: en la torre hay más antenas que ventanas. Mina las ha contado dos veces y le ha salido distinto cada vez." }
+  ]
+}
